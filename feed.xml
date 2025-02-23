@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Eleventy Duo</title>
+  <subtitle></subtitle>
+  <link href="https://eleventyduo.netlify.app/feed.xml" rel="self"/>
+  <link href="https://eleventyduo.netlify.app/"/>
+  
+  <id>https://eleventyduo.netlify.app</id>
+  <author>
+    <name>Author Name</name>
+    <email>author@site.com</email>
+  </author>
+  
+</feed>
